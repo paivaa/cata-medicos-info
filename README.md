@@ -1,2 +1,6 @@
-# cata-medicos-info
-web scraping para coleta de info de médicos em site
+# cata-medicos
+
+
+web scraping em python para coleta de informações de médicos em site.
+
+No final, salva as informações em um arquivo csv
